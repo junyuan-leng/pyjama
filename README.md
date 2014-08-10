@@ -1,0 +1,6 @@
+pyjama是一个Python代码的静态分析及阅读工具
+
+生成类似Java Doc的HTML页面
+
+左侧上半部分为文件/import层次,可以按照import层次绘制树状图,指导Python代码的阅读顺序
+左侧下半部分为函数列表,通过#anchor可以跳转至函数定义处
